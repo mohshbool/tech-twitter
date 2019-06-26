@@ -1,4 +1,3 @@
-
 # Active Tech Pople on 🐦 Twitter 🐦
 This contains a list of the most active tech people on Twitter in various topics. Whole credits go to: [@**hackSultan**](https://twitter.com/hackSultan). His [original tweet.](https://twitter.com/i/web/status/1143186098820194304)
 
@@ -214,3 +213,7 @@ This contains a list of the most active tech people on Twitter in various topics
 	- [@**theTrendyTechie**](https://twitter.com/theTrendyTechie)  
 	- [@**markessien**](https://twitter.com/markessien)  
 	- [@**passalanorh**](https://twitter.com/passalanorh)
+
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome!
+Please, submit a pull request with the requested changes.
